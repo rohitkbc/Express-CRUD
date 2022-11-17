@@ -1,7 +1,7 @@
 
 # 📌Express CRUD API
 
-This project is created to work on CRUD API which works on JSON data.
+A simple application to demonstrate CRUD applications using Express.js on sample json file.
 
 
 
